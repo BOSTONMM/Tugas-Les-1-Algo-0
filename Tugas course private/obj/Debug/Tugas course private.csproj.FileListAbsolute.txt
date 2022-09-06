@@ -1,0 +1,8 @@
+C:\Users\ASUS\OneDrive\Documents\Belajar Algo 0\Tugas course private\Tugas course private\bin\Debug\Tugas course private.exe.config
+C:\Users\ASUS\OneDrive\Documents\Belajar Algo 0\Tugas course private\Tugas course private\bin\Debug\Tugas course private.exe
+C:\Users\ASUS\OneDrive\Documents\Belajar Algo 0\Tugas course private\Tugas course private\bin\Debug\Tugas course private.pdb
+C:\Users\ASUS\OneDrive\Documents\Belajar Algo 0\Tugas course private\Tugas course private\obj\Debug\Tugas course private.csproj.AssemblyReference.cache
+C:\Users\ASUS\OneDrive\Documents\Belajar Algo 0\Tugas course private\Tugas course private\obj\Debug\Tugas course private.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\OneDrive\Documents\Belajar Algo 0\Tugas course private\Tugas course private\obj\Debug\Tugas course private.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\OneDrive\Documents\Belajar Algo 0\Tugas course private\Tugas course private\obj\Debug\Tugas course private.exe
+C:\Users\ASUS\OneDrive\Documents\Belajar Algo 0\Tugas course private\Tugas course private\obj\Debug\Tugas course private.pdb
